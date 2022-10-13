@@ -91,5 +91,8 @@
       "style": "scss"
     }
   },
-  "defaultProject": "myapp"
+  "defaultProject": "myapp",
+  "plugins": [
+    "@nx-dotnet/core"
+  ]
 }
